@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "949581793526",
+    "firebase_url": "https://matrimony-e0eab-default-rtdb.firebaseio.com",
+    "project_id": "matrimony-e0eab",
+    "storage_bucket": "matrimony-e0eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949581793526:android:cd44393b93d64499bf84d7",
+        "android_client_info": {
+          "package_name": "com.example.matrimony"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDidtGDu8c_vE9CLQRtHDAP9Y3h1LdK1Dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
